@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "react-script-editor",
+    "libraryId": "405c9e36-5efd-456d-ac08-04a611759a0c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-script-editor",
+    "solutionShortDescription": "react-script-editor description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
